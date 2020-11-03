@@ -1,0 +1,16 @@
+{
+  "name": "login",
+  "version": "1.0.0",
+  "description": "simple login page",
+  "main": "index.js",
+  "scripts": {
+    "dev" : "lite-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "-": "0.0.1",
+    "lite": "^4.0.5",
+    "server": "^1.0.31"
+  }
+}
